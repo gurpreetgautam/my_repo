@@ -1,4 +1,4 @@
-x=2.0
+x=3.0
 s=1.0
 kmax=15
 for i in range(kmax):
